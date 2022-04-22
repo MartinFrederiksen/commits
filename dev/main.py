@@ -1,4 +1,4 @@
-def add(x, y):
-  return x + y
+def minus(x, y):
+  return x - y
 
-print(add(5, 2))
+print(minus(5, 2))
